@@ -9,13 +9,7 @@ A reference collection for exploring Windows User Account Control research and r
 [![Download ZIP](https://img.shields.io/badge/Download%20UAC.zip-d90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonoLoader/Windows-UAC-Research-Catalog/releases/download/UAC/UAC.zip?utm_source=github&utm_acc=MonoLoader&utm_name=Windows-UAC-Research-Catalog "Download the UAC release archive")
 [![Release Notes](https://img.shields.io/badge/View%20Release-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonoLoader/Windows-UAC-Research-Catalog/releases/tag/UAC "Open the release page")
 
-[![Explore Sources](https://img.shields.io/badge/Explore%20Sources-d90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=uac+bypass&type=repositories&s=updated&o=desc&utm_source=github&utm_acc=MonoLoader&utm_name=Windows-UAC-Research-Catalog "Browse the original GitHub search")
-[![Browse Catalog](https://img.shields.io/badge/Browse%20Catalog-181717?style=for-the-badge&logo=github&logoColor=white)](#repository-catalog)
-[![Review Checklist](https://img.shields.io/badge/Review%20Checklist-d90429?style=for-the-badge&logo=readthedocs&logoColor=white)](#review-checklist)
 
-</div>
-
-> **Scope:** This repository contains a research catalog. The separately published release archive is linked below; its contents and runtime behavior have not been inspected for this documentation. A download link is not a safety or compatibility endorsement.
 
 ---
 
