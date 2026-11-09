@@ -1,0 +1,49 @@
+1. metaltroop/RENI
+URL: https://github.com/metaltroop/RENI
+Description: 🖥️📱 RENIS // RENIC — Self-hosted remote desktop engine & mobile PWA with WebAuthn fingerprint auth, UAC-bypassing admin execution, live hardware telemetry, and real-time binary screen streaming.
+Topics: Not specified.
+
+2. slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+URL: https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+Description: Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+Topics: skip skip-download skip-install skip-key skip-patch skip-software skip-trial skip-uac-prompt skip-uac-prompt-download skip-uac-prompt-install skip-uac-prompt-key skip-uac-prompt-patch skip-uac-prompt-software skip-uac-prompt-trial
+
+3. Krwozer/ShellCode-Elevator-Uac-Bypass-Inject-Any-X64-fud
+URL: https://github.com/Krwozer/ShellCode-Elevator-Uac-Bypass-Inject-Any-X64-fud
+Description: Shellcode development involves creating payloads for post-exploitation tasks like antivirus evasion and UAC bypass. Tools like shellcode loaders and injectors enable execution, while assembly and encoders ensure stealth on Windows systems.
+Topics: antivirus-evasion assembly bypass compiler hadler post-exploitation rat redteam shellcode shellcode-development shellcode-encoder shellcode-execute shellcode-injection shellcode-ionjector shellcode-loader shellcodes uac-bypass windows
+
+4. Ecerstm/CMSTPLua-Reflective-UAC-Bypass
+URL: https://github.com/Ecerstm/CMSTPLua-Reflective-UAC-Bypass
+Description: Windows UAC bypass tool using the DLL injection technique. It loads the DLL entirely from memory without touching the disk.
+Topics: bypass-technique com-elevation com-interface elevation-moniker hacking icmluautil memory-injection pe-loader privilege-escalation reflective-dll-injection uac-bypass user-account-control windows-api windows-development windows-exploitation windows-security windows-uac
+
+5. owlsecx/OUACBypass
+URL: https://github.com/owlsecx/OUACBypass
+Description: OUACBypass: UAC Bypass Technique Catalog
+Topics: owl-os pentesting red-team security uac windows
+
+6. wesmar/WinDefCtl
+URL: https://github.com/wesmar/WinDefCtl
+Description: Command-line utility to completely halt, disable, and neutralize Windows Defender and Tamper Protection. Bypasses forced UAC and GUI requirements in Windows 11 (supports 26H1/26H2). Features invisible execution and automatic privilege handling. Essential tool for sysadmins and security researchers.
+Topics: disable-tamper-protection-from-command-line disable-windows-defender-from-command-line sc-stop-windefend stop-defender
+
+7. MemDecompression/iscsicpl-uac-bypass
+URL: https://github.com/MemDecompression/iscsicpl-uac-bypass
+Description: Still working on Windows 11 26H2 and undetected by wd
+Topics: bypass-av bypass-uac dll-hijack pentesting-windows windows-privilege-escalation
+
+8. x0xr00t/Automated-MUlti-UAC-Bypass
+URL: https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass
+Description: Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
+Topics: Not specified.
+
+9. tonykcmarsh/SspiUacBypass
+URL: https://github.com/tonykcmarsh/SspiUacBypass
+Description: Bypassing UAC with SSPI Datagram Contexts
+Topics: Not specified.
+
+10. tonykcmarsh/SharpBypassUAC
+URL: https://github.com/tonykcmarsh/SharpBypassUAC
+Description: C# tool for UAC bypasses
+Topics: Not specified.

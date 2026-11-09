@@ -1,0 +1,157 @@
+{
+  "title": "Windows-UAC-Research-Catalog",
+  "source_search_url": "https://github.com/search?q=uac+bypass&type=repositories&s=updated&o=desc",
+  "scope": "Historical ten-repository snapshot; author claims not independently tested.",
+  "repositories": [
+    {
+      "number": 1,
+      "name": "metaltroop/RENI",
+      "url": "https://github.com/metaltroop/RENI",
+      "description": "🖥️📱 RENIS // RENIC — Self-hosted remote desktop engine & mobile PWA with WebAuthn fingerprint auth, UAC-bypassing admin execution, live hardware telemetry, and real-time binary screen streaming.",
+      "topics": [],
+      "summary_en": "RENI combines the RENIS server and RENIC mobile client. Its author describes WebAuthn authentication, hardware telemetry, and real-time screen streaming alongside elevated administration features."
+    },
+    {
+      "number": 2,
+      "name": "slabbayak-223211-bot/uac-bypass-toolkit-v1-1",
+      "url": "https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1",
+      "description": "Skip UAC Prompt 1.1 Workaround Guide for Windows 2026",
+      "topics": [
+        "skip",
+        "skip-download",
+        "skip-install",
+        "skip-key",
+        "skip-patch",
+        "skip-software",
+        "skip-trial",
+        "skip-uac-prompt",
+        "skip-uac-prompt-download",
+        "skip-uac-prompt-install",
+        "skip-uac-prompt-key",
+        "skip-uac-prompt-patch",
+        "skip-uac-prompt-software",
+        "skip-uac-prompt-trial"
+      ],
+      "summary_en": "The repository describes itself as a “Skip UAC Prompt 1.1 Workaround Guide for Windows 2026.” Review its contents and the destination of any external download links before relying on promotional claims."
+    },
+    {
+      "number": 3,
+      "name": "Krwozer/ShellCode-Elevator-Uac-Bypass-Inject-Any-X64-fud",
+      "url": "https://github.com/Krwozer/ShellCode-Elevator-Uac-Bypass-Inject-Any-X64-fud",
+      "description": "Shellcode development involves creating payloads for post-exploitation tasks like antivirus evasion and UAC bypass. Tools like shellcode loaders and injectors enable execution, while assembly and encoders ensure stealth on Windows systems.",
+      "topics": [
+        "antivirus-evasion",
+        "assembly",
+        "bypass",
+        "compiler",
+        "hadler",
+        "post-exploitation",
+        "rat",
+        "redteam",
+        "shellcode",
+        "shellcode-development",
+        "shellcode-encoder",
+        "shellcode-execute",
+        "shellcode-injection",
+        "shellcode-ionjector",
+        "shellcode-loader",
+        "shellcodes",
+        "uac-bypass",
+        "windows"
+      ],
+      "summary_en": "The author describes a project involving shellcode loaders, injection, and UAC-related behavior. Claims about stealth or antivirus evasion are not validated by inclusion in this catalog."
+    },
+    {
+      "number": 4,
+      "name": "Ecerstm/CMSTPLua-Reflective-UAC-Bypass",
+      "url": "https://github.com/Ecerstm/CMSTPLua-Reflective-UAC-Bypass",
+      "description": "Windows UAC bypass tool using the DLL injection technique. It loads the DLL entirely from memory without touching the disk.",
+      "topics": [
+        "bypass-technique",
+        "com-elevation",
+        "com-interface",
+        "elevation-moniker",
+        "hacking",
+        "icmluautil",
+        "memory-injection",
+        "pe-loader",
+        "privilege-escalation",
+        "reflective-dll-injection",
+        "uac-bypass",
+        "user-account-control",
+        "windows-api",
+        "windows-development",
+        "windows-exploitation",
+        "windows-security",
+        "windows-uac"
+      ],
+      "summary_en": "The repository describes a Windows UAC-related tool that loads a DLL from memory. Its documentation includes an overview, requirements, and technical discussion."
+    },
+    {
+      "number": 5,
+      "name": "owlsecx/OUACBypass",
+      "url": "https://github.com/owlsecx/OUACBypass",
+      "description": "OUACBypass: UAC Bypass Technique Catalog",
+      "topics": [
+        "owl-os",
+        "pentesting",
+        "red-team",
+        "security",
+        "uac",
+        "windows"
+      ],
+      "summary_en": "OUACBypass presents itself as a catalog of UAC bypass techniques. It provides a starting point for identifying research topics, rather than proof that any technique applies to every Windows configuration."
+    },
+    {
+      "number": 6,
+      "name": "wesmar/WinDefCtl",
+      "url": "https://github.com/wesmar/WinDefCtl",
+      "description": "Command-line utility to completely halt, disable, and neutralize Windows Defender and Tamper Protection. Bypasses forced UAC and GUI requirements in Windows 11 (supports 26H1/26H2). Features invisible execution and automatic privilege handling. Essential tool for sysadmins and security researchers.",
+      "topics": [
+        "disable-tamper-protection-from-command-line",
+        "disable-windows-defender-from-command-line",
+        "sc-stop-windefend",
+        "stop-defender"
+      ],
+      "summary_en": "The author describes a command-line utility affecting Windows Defender and Tamper Protection. Because the stated functionality changes security controls, evaluation requires particular care and a recoverable, isolated environment."
+    },
+    {
+      "number": 7,
+      "name": "MemDecompression/iscsicpl-uac-bypass",
+      "url": "https://github.com/MemDecompression/iscsicpl-uac-bypass",
+      "description": "Still working on Windows 11 26H2 and undetected by wd",
+      "topics": [
+        "bypass-av",
+        "bypass-uac",
+        "dll-hijack",
+        "pentesting-windows",
+        "windows-privilege-escalation"
+      ],
+      "summary_en": "The repository’s brief description includes claims about Windows 11 26H2 compatibility and Windows Defender detection. These remain author statements, not independently confirmed results."
+    },
+    {
+      "number": 8,
+      "name": "x0xr00t/Automated-MUlti-UAC-Bypass",
+      "url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+      "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
+      "topics": [],
+      "summary_en": "The project describes automation across several Windows and Windows Server versions. Its stated platform coverage should not be interpreted as a verified compatibility matrix for current builds."
+    },
+    {
+      "number": 9,
+      "name": "tonykcmarsh/SspiUacBypass",
+      "url": "https://github.com/tonykcmarsh/SspiUacBypass",
+      "description": "Bypassing UAC with SSPI Datagram Contexts",
+      "topics": [],
+      "summary_en": "The repository describes research connecting SSPI Datagram Contexts with UAC bypass behavior. Consult the original project for its scope, dependencies, and limitations."
+    },
+    {
+      "number": 10,
+      "name": "tonykcmarsh/SharpBypassUAC",
+      "url": "https://github.com/tonykcmarsh/SharpBypassUAC",
+      "description": "C# tool for UAC bypasses",
+      "topics": [],
+      "summary_en": "SharpBypassUAC is described as a C# tool for UAC bypasses. Its README includes parameter documentation and detection-related sections that may inform defensive review."
+    }
+  ]
+}
