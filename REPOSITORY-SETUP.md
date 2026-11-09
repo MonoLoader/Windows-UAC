@@ -24,11 +24,11 @@ windows-security uac user-account-control security-research cybersecurity privil
 
 ## Tracking links
 
-The README preserves the requested red/black badge style and the example attribution values utm_source=github, utm_acc=HydraSoft, and utm_name=Windows-UAC-Research-Catalog on the original search link. HydraSoft is an example supplied in the conversation, not a verified owner identity. Change or remove utm_acc before publishing if it does not identify your account. GitHub is not guaranteed to report these parameters as analytics. No link redirects to an unrelated download site.
+The README uses red/black badges. The release download links use utm_source=github, utm_acc=MonoLoader, and utm_name=Windows-UAC-Research-Catalog. They point directly to the asset in the supplied GitHub repository. GitHub is not guaranteed to report these parameters as analytics. No link redirects to an unrelated download site.
 
 ## What this package is
 
-A documentation catalog, not a combined Windows utility. It has no application code, binaries, installer, deployment, or Git history. An online repository has not been created by preparing this archive.
+A documentation catalog, not a combined Windows utility. This ZIP has no application code, binaries, installer, deployment, or Git history. Its README now links to the separately published UAC.zip asset at https://github.com/MonoLoader/Windows-UAC-Research-Catalog/releases/tag/UAC. The asset contents were not downloaded or inspected. Update the existing repository by replacing its README and other changed documentation; preparing this archive does not modify GitHub.
 
 ## Files
 
