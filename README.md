@@ -13,7 +13,7 @@ A reference collection for exploring Windows User Account Control research and r
 
 ---
 
-##  Navigation
+##   Navigation
 
 - [Download and Setup](#download-and-setup)
 - [Overview](#overview)
